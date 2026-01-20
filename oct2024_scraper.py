@@ -6,7 +6,7 @@ import pandas as pd
 import re
 
 # Define the PDF file path
-pdf_path = r"C:\Users\rocke\Downloads\DLTAwardnees_2016.pdf"
+pdf_path = file
 
 # Initialize an empty list to store extracted data
 data = []
@@ -77,3 +77,4 @@ df = pd.DataFrame(data)
 # Save the DataFrame to an Excel file
 excel_path = 'extracted_data.xlsx'
 df.to_excel(excel_path, index=False)
+
