@@ -1,2 +1,2 @@
-# personal
-for personal use (not affiliated with psu)
+# Personal
+For personal use (not affiliated with PSU)
